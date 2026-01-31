@@ -1,16 +1,26 @@
-# proyecto_flutter_basico
+## Descripción
+Este proyecto es una aplicación Flutter básica creada como parte de una tarea académica.  
+Incluye:
 
-A new Flutter project.
+- Cambio de título y color del AppBar
+- Texto principal modificado
+- Botón funcional que muestra un SnackBar
+- Navegación a una segunda pantalla con botón para regresar
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Capturas de la aplicación
 
-A few resources to get you started if this is your first Flutter project:
+### Pantalla principal
+![Pantalla Principal](screenshot1112.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### SnackBar al presionar botón
+![SnackBar](screenshot1113.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Segunda pantalla y botón para regresar
+![Segunda Pantalla](screenshot1114.png)
+
+---
+
+## Repositorio GitHub
+[https://github.com/jeancstyle04-netizen/proyecto_flutter_basico](https://github.com/jeancstyle04-netizen/proyecto_flutter_basico)
