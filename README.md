@@ -11,14 +11,7 @@ Incluye:
 
 ## Capturas de la aplicación
 
-### Pantalla principal
-![Pantalla Principal](screenshot1112.png)
-
-### SnackBar al presionar botón
-![SnackBar](screenshot1113.png)
-
-### Segunda pantalla y botón para regresar
-![Segunda Pantalla](screenshot1114.png)
+En la carpeta screenshots
 
 ---
 
